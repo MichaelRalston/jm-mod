@@ -5,10 +5,10 @@ eraniss = {
 		graphical_cultures { englishgfx }
 		color = { 1 .83 0 }
 		male_names = {
-			Laset Ephiral Ramias:10 Amaris:10
+			Laset Ephiral Ramias:10 Amaris:10 Jedrek Elnth Kaa Randi Juun
 		}
 		female_names = {
-			Stella Krista Rhea:50 Saren:10 Midori:10 Amaris:10
+			Stella Krista Rhea:50 Saren:10 Midori:10 Amaris:10 Li Aria Himiko Mei Jaylin Kalith Alegria
 		}
 		
 		modifier = default_culture_modifier
@@ -18,10 +18,10 @@ eraniss = {
 		graphical_cultures { celticgfx }
 		color = { .75 .75 .82 }
 		male_names = {
-			Saren
+			Saren Marek Garrel Wing:80 Foster Nevil
 		}
 		female_names {
-			Saren
+			Saren Rayne Ereill Cery
 		}
 		
 		modifier = default_culture_modifier
