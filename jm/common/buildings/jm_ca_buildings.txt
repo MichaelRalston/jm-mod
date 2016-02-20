@@ -1,0 +1,22 @@
+castle = {
+#girralatia
+	ca_girralatia_research = {
+		desc = ca_girralatia_research_desc
+		
+		potential = { FROM = { culture = girralatian } }
+		
+		trigger = {
+			TECH_CASTLE_CONSTRUCTION = 3
+			is_capital = yes
+		}
+		
+		prerequisites = { ca_keep_2 }
+		
+		ai_creation_factor = 90
+		
+		military_techpoints = 0.1
+		
+		gold_cost = 250
+		build_time = 750
+	}
+}
