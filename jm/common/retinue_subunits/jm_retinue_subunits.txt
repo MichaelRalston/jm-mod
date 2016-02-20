@@ -1,0 +1,14 @@
+RETTYPE_CUL_ERANISS = {
+	potential = {
+		culture_group = eraniss
+	}
+	
+	first_type = 6
+	first_amount = 15
+	special_troops = mages
+	
+	modifier = {
+		mages_offensive = 0.2
+		mages_defensive = 0.1
+	}
+}

@@ -1,0 +1,10 @@
+mages = {
+	morale = 1
+	maintenance = 30
+	phase_melee_attack = 6
+	phase_melee_defense = 3
+	phase_skirmish_attack = 34
+	phase_skirmish_defense = 34
+	phase_pursue_attack = 50
+	phase_pursue_defense = 50
+}
