@@ -1,0 +1,29 @@
+eraniss = {
+	graphical_cultures = { westerngfx }
+	
+	havenite = {
+		graphical_cultures { englishgfx }
+		color = { 1 .83 0 }
+		male_names = {
+			Laset Ephiral Ramias:10 Amaris:10
+		}
+		female_names = {
+			Stella Krista Rhea:50 Saren:10 Midori:10 Amaris:10
+		}
+		
+		modifier = default_culture_modifier
+	}
+	
+	girralatian = {
+		graphical_cultures { celticgfx }
+		color = { .75 .75 .82 }
+		male_names = {
+			Saren
+		}
+		female_names {
+			Saren
+		}
+		
+		modifier = default_culture_modifier
+	}
+}
