@@ -7,4 +7,5 @@ mages = {
 	phase_skirmish_defense = 34
 	phase_pursue_attack = 50
 	phase_pursue_defense = 50
+	base_type = archers
 }
