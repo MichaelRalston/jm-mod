@@ -50,6 +50,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 16;18;sea;968;-1;-1;-1;-1;Laigin-Dyfed
 345;470;sea;1038;-1;-1;-1;-1;Brindisi-Dyrrhachion
 641;870;sea;1393;-1;-1;-1;-1;Hormuz-Dhu Zabi
+1468;1470;sea;989;-1;-1;-1;-1;Radlien-Havenite transporter
+1465;1472;sea;989;-1;-1;-1;-1;Havenite-Girralatian transporter
 259;261;major_river;1046;-1;-1;-1;-1;Celle-Hamburg
 258;261;major_river;1046;-1;-1;-1;-1;Lüneburg-Hamburg
 309;261;major_river;1046;-1;-1;-1;-1;Altmark-Hamburg
@@ -244,5 +246,3 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1089;1094;portage;595;-1;-1;-1;-1;Don-Volga
 1087;1082;portage;417;-1;-1;-1;-1;Lovat-Dwina
 1402;1404;portage;1195;-1;-1;-1;-1;Gulf of Mannar-Palk Strait
-14155;14153;sea;989;-1;-1;-1;-1;Radlien-Havenite transporter
-14149;14150;sea;989;-1;-1;-1;-1;Havenite-Girralatian transporter
