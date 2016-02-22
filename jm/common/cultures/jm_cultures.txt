@@ -2,7 +2,7 @@ eraniss = {
 	graphical_cultures = { westerngfx }
 	
 	havenite = {
-		graphical_cultures { englishgfx }
+		graphical_cultures = { englishgfx }
 		color = { 1 .83 0 }
 		male_names = {
 			Laset Ephiral Ramias:10 Amaris:10 Jedrek Elnth Kaa Randi Juun
@@ -15,7 +15,7 @@ eraniss = {
 	}
 	
 	girralatian = {
-		graphical_cultures { celticgfx }
+		graphical_cultures = { celticgfx }
 		color = { .75 .75 .82 }
 		male_names = {
 			Saren Marek Garrel Wing:80 Foster Nevil
