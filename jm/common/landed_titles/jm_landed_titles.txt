@@ -1,0 +1,9 @@
+d_haven = {
+	c_haven = {
+		color = { 255 215 0 }
+		color2 = { 0 0 0 }
+		b_haven = { }
+		b_mayoral_demesne = { }
+		b_randli = { }
+	}
+}
