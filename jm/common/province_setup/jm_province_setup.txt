@@ -1,0 +1,45 @@
+14149 = {
+	title = c_girralatia_outside
+	max_settlements = 7
+	terrain = farmland
+}
+14150 = {
+	title = c_nw_haven
+	max_settlements = 4
+	terrain = farmland
+}
+14151 = {
+	title = c_ne_haven
+	max_settlements = 3
+	terrain = farmland
+}
+14152 = {
+	title = c_haven
+	max_settlements = 7
+	terrain = farmland
+}
+14153 = {
+	title = c_se_haven
+	max_settlements = 3
+	terrain = farmland
+}
+14154 = {
+	title = c_radley_outskirts
+	max_settlements = 5
+	terrain = farmland
+}
+14155 = {
+	title = c_shadowlands
+	max_settlements = 4
+	terrain = farmland
+}
+14156 = {
+	title = c_radley
+	max_settlements = 5
+	terrain = farmland
+}
+14157 = {
+	title = c_girralatia
+	max_settlements = 7
+	terrain = farmland
+}
