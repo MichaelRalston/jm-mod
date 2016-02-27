@@ -1,0 +1,28 @@
+CBs:
+- Eraniss culture gives you Ducal Unification. (if you control land in a dutchy, can declare war on any independent who holds land in the dutchy for that land - including the ducal title itself) (costs??) (if you're a vassal you can declare this on equal-level vassals, but not the liege)
+- CB to conquest a county of same-religion ruled by different-religion.
+- No holy wars or conquest with the religion - ideally, make it so that eraniss culture turns off holy wars, but the religion allows it?
+- Can we do a CB that lets you force a war to make others abdicate to a dynast of yours in the succession?
+- Add a CB (havenite culture?) to force targets to true cognatic.
+- Try to let the Radliens convert a province adjacent (or near enough?) that isn't theirs, no matter the owner/culture/etc.
+- Girralatia gets a strong claim on tributary breakage.
+
+Characters:
+Girralatia: no character yet (should hold all the baronies, I think? definitely ALSO the ducal title.)
+Laset: Dynasty. Other tweaks?
+Ramias: needs to exist.
+
+
+
+Starting laws:
+- Haven/Girralatia: Cognatic
+- Haven: locked into Cognatic, even.
+
+
+Decision:
+Haven gets a way to set up an MTTH event on other people: significant reduction on dynasts, also opinion matters.
+while diplomancing, some events can happen: possible to get a favor, possible to get opinion up, possible to get a special opinion modifier that effectively pagan-subjugations them on a cb, possible to get a peaceful vassal (but dynast is very important for that)
+research: can we make it so this cb on a vassal lets you fight their leige for them?
+
+
+Starting tech.
