@@ -1,11 +1,11 @@
-# 14153 - Haven
+# 1468 - Haven
 
 # County Title
-title = c_haven
+title = c_se_haven
 
 # Settlements
-max_settlements = 7
-b_haven = castle
+max_settlements = 3
+b_se_haven = tribal
 
 culture = havenite
 religion = catholic

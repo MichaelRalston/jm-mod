@@ -1,0 +1,11 @@
+# 1468 - Haven
+
+# County Title
+title = c_w_radley
+
+# Settlements
+max_settlements = 3
+b_w_radley = tribal
+
+culture = radliens
+religion = catholic

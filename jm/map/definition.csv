@@ -1468,11 +1468,11 @@ province;red;green;blue;x;x
 1467;181;99;162;Southwest Haven;x
 1468;48;215;91;Southeast Haven;x
 1469;48;215;227;North Radley;x
-1470;170;215;74;East Radley;x++
+1470;170;215;74;East Radley;x
 1471;170;96;74;South Radley;x
 1472;109;187;55;East Girralatia;x
-1473;127;159;164;;x
-1474;169;162;37;;x
+1473;127;159;164;Northwest Radley;x
+1474;169;162;37;West Radley;x
 1475;1;165;165;;x
 1476;43;168;38;;x
 1477;85;171;166;;x

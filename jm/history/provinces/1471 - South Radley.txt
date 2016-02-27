@@ -1,0 +1,13 @@
+# 1468 - Haven
+
+# County Title
+title = c_s_radley
+
+# Settlements
+max_settlements = 6
+b_s_radley = castle
+b_s_radley_temple = temple
+b_s_radley_city = city
+
+culture = radliens
+religion = catholic
