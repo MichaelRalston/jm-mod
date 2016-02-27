@@ -1,0 +1,17 @@
+# 1468 - Haven
+
+# County Title
+title = c_e_girralatia
+
+# Settlements
+max_settlements = 7
+b_e_girralatia_castle_1 = castle
+b_e_girralatia_temple_1 = temple
+b_e_girralatia_city_1 = city
+b_e_girralatia_castle_2 = castle
+b_e_girralatia_city_2 = city
+b_e_girralatia_city_3 = city
+b_e_girralatia_city_4 = city
+
+culture = girralatian
+religion = catholic

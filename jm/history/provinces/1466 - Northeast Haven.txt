@@ -1,0 +1,11 @@
+# 1468 - Haven
+
+# County Title
+title = c_ne_haven
+
+# Settlements
+max_settlements = 3
+b_ne_haven = tribal
+
+culture = havenite
+religion = catholic
