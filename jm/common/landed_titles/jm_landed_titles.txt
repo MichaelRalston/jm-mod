@@ -1,9 +1,90 @@
-d_haven = {
-	c_haven = {
-		color = { 255 215 0 }
-		color2 = { 0 0 0 }
-		b_haven = { }
-		b_mayoral_demesne = { }
-		b_randli = { }
+e_eraniss = {
+	color = { 255 255 255 }
+	k_haven = {
+		color = { 255 205 0 }
+		d_haven = {
+			color = { 255 225 0 }
+			c_haven = {
+				color = { 255 215 0 }
+				color2 = { 0 0 0 }
+				b_haven = { }
+				b_haven_temple = {}
+				b_haven_city = {}
+				b_haven_city_2 = {}
+				b_haven_castle_2 = {}
+				b_haven_castle_3 = {}
+			}
+			c_nw_haven = {
+				color = { 64 0 0 }
+				color2 = { 255 0 0 }
+				b_nw_haven = {}
+			}
+			c_ne_haven = {
+				color = { 0 64 0 }
+				color2 = { 0 255 0 }
+				b_ne_haven = {}
+			}
+			c_se_haven = {
+				color = { 0 0 64 }
+				color2 = { 0 0 255 }
+				b_se_haven = {}
+			}
+		}
+	}
+
+	k_girralatia = {
+		color = {192 192 210}
+		d_girralatia = {
+			color = {192 192 210}
+			c_w_girralatia = {
+				color = {192 192 210}
+				b_w_girralatia_castle_1 = {}
+				b_w_girralatia_temple_1 = {}
+				b_w_girralatia_city_1 = {}
+				b_w_girralatia_castle_2 = {}
+				b_w_girralatia_castle_3 = {}
+				b_w_girralatia_castle_4 = {}
+				b_w_girralatia_city_2 = {}
+			}
+			c_e_girralatia = {
+				color = {160 160 192}
+				b_e_girralatia_castle_1 = {}
+				b_e_girralatia_temple_1 = {}
+				b_e_girralatia_city_1 = {}
+				b_e_girralatia_castle_2 = {}
+				b_e_girralatia_city_2 = {}
+				b_e_girralatia_city_3 = {}
+				b_e_girralatia_city_4 = {}
+			}
+		}
+	}
+
+	k_radley = {
+		color = {230 10 10}
+		d_radley = {
+			color = {240 0 0}
+			c_radley = {
+				color = {255 0 0}
+				b_s_radley = {}
+				b_s_radley_temple = {}
+				b_s_radley_city = {}
+			}
+			c_e_radley = {
+				color = {255 30 30}
+				b_e_radley = {}
+			}
+			c_n_radley = {
+				color = {200 0 0 }
+				b_n_radley = {}
+			}
+			c_nw_radley = {
+				color = {225 0 30}
+				b_nw_radley = {}
+			}
+			c_w_radley = {
+				color = {200 30 30}
+				b_w_radley = {}
+			}
+		}
 	}
 }

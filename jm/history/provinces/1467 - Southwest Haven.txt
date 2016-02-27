@@ -1,0 +1,16 @@
+# 1468 - Haven
+
+# County Title
+title = c_haven
+
+# Settlements
+max_settlements = 7
+b_haven = castle
+b_haven_temple = temple
+b_haven_city = city
+b_haven_city_2 = city
+b_haven_castle_2 = castle
+b_haven_castle_3 = castle
+
+culture = havenite
+religion = catholic

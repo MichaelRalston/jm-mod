@@ -1,7 +1,7 @@
 # 1468 - Haven
 
 # County Title
-title = c_s_radley
+title = c_radley
 
 # Settlements
 max_settlements = 6
