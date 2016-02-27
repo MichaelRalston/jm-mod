@@ -1,6 +1,12 @@
 e_eraniss = {
 	color = { 255 255 255 }
 	k_haven = {
+		allow = {
+			NOR = {
+				has_landed_title = k_radley
+				has_landed_title = k_girralatia
+			}
+		}
 		color = { 255 205 0 }
 		d_haven = {
 			color = { 255 225 0 }
@@ -33,6 +39,12 @@ e_eraniss = {
 	}
 
 	k_girralatia = {
+		allow = {
+			NOR = {
+				has_landed_title = k_radley
+				has_landed_title = k_haven
+			}
+		}
 		color = {192 192 210}
 		d_girralatia = {
 			color = {192 192 210}
@@ -60,6 +72,12 @@ e_eraniss = {
 	}
 
 	k_radley = {
+		allow = {
+			NOR = {
+				has_landed_title = k_girralatia
+				has_landed_title = k_haven
+			}
+		}
 		color = {230 10 10}
 		d_radley = {
 			color = {240 0 0}

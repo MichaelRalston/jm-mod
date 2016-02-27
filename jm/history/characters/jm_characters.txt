@@ -1,0 +1,8 @@
+3000000 = {
+	name = "Laset"
+	religion = "catholic"
+	culture = "havenite"
+	751.1.1 = {
+		birth = yes
+	}
+}
