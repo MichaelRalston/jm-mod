@@ -1,5 +1,5 @@
 CBs:
-- Eraniss culture gives you Ducal Unification. (if you control land in a dutchy, can declare war on any independent who holds land in the dutchy for that land - including the ducal title itself) (costs??) (if you're a vassal you can declare this on equal-level vassals, but not the liege)
+- Eraniss culture gives you Ducal Unification. (if you control land in a dutchy, can declare war on any independent who holds land in the dutchy for that land - including the ducal title itself) (costs??) (if you're a vassal you can declare this on equal-level vassals, but not the liege) --- DONE?
 - CB to conquest a county of same-religion ruled by different-religion.
 - No holy wars or conquest with the religion - ideally, make it so that eraniss culture turns off holy wars, but the religion allows it?
 - Can we do a CB that lets you force a war to make others abdicate to a dynast of yours in the succession?
@@ -26,3 +26,27 @@ research: can we make it so this cb on a vassal lets you fight their leige for t
 
 
 Starting tech.
+
+
+Havenite government, maybe? ducal+titles would operate as follows:
+- only allow elective succession plus have events every few years (on a specific pulse or something) that somehow decide if it goes to the heir or the holder keeps it. (based on ... idk, opinions or something. poke that with a stick.)
+For players, it should trigger an event to the holder. two options: can abdicate fully, or can have only the title+capital go. (maybe somehow check for other titles for the ai decision, or just make it choose based on "going to unlanded dynast" vs "anything else", idk.)
+
+
+Religion:
+- Girralatia gets something secular, for sure.
+- Haven's religion is weird.
+
+(holy sites??)
+Maybe a uniform "secular religion"? It would ban religious revocation law!!
+
+
+
+Buildings:
+Custom buildings! Replace some of the base stuff, for the culture.
+
+Have a provincial decision that flips buildings, if any exist.
+
+
+
+Magic system: ?????
